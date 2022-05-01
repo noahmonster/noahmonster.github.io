@@ -9,6 +9,7 @@ I always have these items in my pack. They are the first to go in.
     * Navigation + Camera
 * Sun protection
 * Sunglasses
+
 ![always](always.jpg)
 
 ## Clothes
@@ -26,6 +27,7 @@ These items are modified by conditions. On warmer days, the layers get lighter. 
 * Sun hat
 * Winter hat
 * Light gloves
+
 ![clothes](clothes.jpg)
 
 ## Gear
@@ -34,6 +36,7 @@ These items are modified by conditions. On warmer days, the layers get lighter. 
 * Hiking poles
 * Gaiters
 * Traction
+
 ![gear](gear.jpg)
 
 ## Food
