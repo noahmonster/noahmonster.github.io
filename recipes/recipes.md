@@ -68,7 +68,7 @@
 *   [Thanksgiving Chestnut Dressing](html/chestnutdressing.html)
 *   [Chumentashen](html/chumentashen.html)
 *   [Honey Cake](html/honeycake.html)
-*   [Potato Latkes](html/latkes.html)
+* [Potato Latkes](markdown/latkes.md)
 *   [Matzo Kugel](html/matzokugel.html)
 *   [Matzo Stuffing](html/matzostuffing.html)
 *   [Passover Nut Cake](html/nutcake.html)
