@@ -108,12 +108,11 @@
 *   [Doro Wat (Ethiopian Chicken)](html/dorowat.html)
 *   [Frankfurter Goulash](html/franks.html)
 *   [Hungarian Beef Goulash](html/hungoo.html)
-*   [Poppy Chicken](html/poppy.html)
+* [Poppy Chicken](markdown/poppy_chicken.md)
 
 #### Baked and Roasted Meats
-*   [Oven Barbecued Brisket](html/barbbrisk.html)
 *   [Barbecued ribs and chicken](html/barbecue.html)
-*   [Braised Brisket](html/bestbrisk.html)
+* [Braised Brisket](markdown/brisket.md)
 *   [Brined Pork Chops](html/brinechops.html)
 *   [Brined Roast Turkey](html/brineturkey.html)
 *   [Meat Loaf](html/meatloaf.html)
@@ -134,7 +133,7 @@
 *   [Bulgur](html/bulgur.html)
 *   [Kasha](html/kasha.html)
 *   [Couscous](html/couscous.html)
-*   [Dumplings](html/dumplings.html)
+* [Dumplings](markdown/dumplings.md)
 *   [Kugel](html/kugel.html)
 *   [Tomato Chutney](html/tomchutney.html)
 *   [Coleslaw](html/coleslaw.html)
