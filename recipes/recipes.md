@@ -119,6 +119,7 @@
 *   [Podvarak (Sauerkraut-Stuffed Turkey)](html/podvarak.html)
 *   [Barbecued Steak](html/steak.html)
 *   [Oven-Baked Chuck Roast](html/ovenpot.html)
+*   [Sheet-Pan Chicken](html/sheet_chicken.html)
 
 #### Miscellaneous
 *   [Chili](html/chili.html)
