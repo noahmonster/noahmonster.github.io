@@ -25,16 +25,18 @@
 *   [Creamy Rice Pudding](html/ricepudding.html)
 
 ### Quick Breads
-*   [Banana Bread](html/bananabread.html)
 * [Biscuits](markdown/biscuits.md)
 * [Buttermilk Biscuits](markdown/buttermilk-biscuits.md)
+* [White Lily Biscuits](markdown/whitelilybiscuits.md)
+* [Jonah's Pancakes](markdown/jonahpcakes.md)
+---
+*   [Banana Bread](html/bananabread.html)
 *   [Blueberry Muffins](html/blueberrymuffins.html)
 *   [Bran Muffins](html/branmuffins.html)
 *   [Corn Muffins](html/cornmuffins.html)
 *   [Fat Free Banana Bread](html/ffbananabread.html)
 *   [Fat Free Indian Cornbread](html/ffindiancornbread.html)
 *   [Irish Soda Bread](html/irishsodabread.html)
-*   [Jonah's Pancakes](html/jonahpcake.html)
 *   [Corn Kernel Muffins](html/kernelmuffins.html)
 *   [Aunt Janis' Famous Pumpkin Bread](html/pumpkinbread.html)
 *   [Raisin Muffins](html/raisinmuffins.html)
