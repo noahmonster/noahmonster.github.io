@@ -30,7 +30,6 @@
 * [White Lily Biscuits](markdown/whitelilybiscuits.md)
 * [Jonah's Pancakes](markdown/jonahpcakes.md)
 
----
 
 *   [Banana Bread](html/bananabread.html)
 *   [Blueberry Muffins](html/blueberrymuffins.html)
